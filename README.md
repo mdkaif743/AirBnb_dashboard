@@ -25,3 +25,5 @@ In the initial data cleanng, I performed the following tasks:
 1. Imported data from Excel to Tableau.
 2. Created an inner join within tableau.
 3. Then using various parameters created the dashboards.
+
+Link to the main dashboard. [Link](https://public.tableau.com/app/profile/mohammad.kaif8675/viz/AirBnbdashboard_17194180635290/Dashboard1).
