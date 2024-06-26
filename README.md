@@ -5,7 +5,7 @@
 This project provides an insights on the location, price of different Aribnbs available across Seattle United States.
 
 ### Data Sources
-Raw Data: This Primary dataset used for creating visualisation  was gattered from an online source with the link given below [Link](https://insideairbnb.com/get-the-data).
+Raw Data: This Primary dataset used for creating visualisation  was gattered from an online source with the link given below [Link1](https://insideairbnb.com/get-the-data). [Link2](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset).
 
 ### Tools 
 
